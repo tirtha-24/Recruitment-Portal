@@ -1,7 +1,7 @@
 # Recruitment-Portal
 A portal designed for the application submission of teaching post at IIT(ISM) Dhanbad. This project is done as a part of the curriculum using the technologies- 
 - React for UI designing
-- Node.js as a source of backend APIs
+- Node.js as a source for backend APIs
 - Express for routing and managing requests across web
 - MySQL as database.
 
